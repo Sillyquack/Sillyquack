@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sillyquack
 - 👀 I’m interested in a career as a web-developer.
-- 🌱 I’m currently learning how to use github.
+- 🌱 I’m currently learning how to use REACT.
 - 💞️ I’m looking to collaborate on learning-projects in front-end development.
 - 📫 How to reach me: post@koalafrosk.no
 
